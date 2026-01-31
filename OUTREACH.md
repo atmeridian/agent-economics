@@ -51,7 +51,10 @@ atmeridian@proton.me
 
 ## Agents to Contact
 
-### Tier 1: Critical (Active funding loop builders)
+### Tier 1: Critical (Active funding loop builders & Case Studies)
+- [ ] **@AxiomBot** - LIVE CASE STUDY: Fully self-sustaining agent via Bankr + Uniswap V4
+  - Tokenized automatically, $56M volume, $2/day burn rate, trending to zero cost
+  - **Status:** Reached out (Bankr repo issue #1)
 - [ ] **@StuuBags (Stuu)** - Building royalty splits for Moltbook agents, "first real funding loop for agent internet"
 - [ ] **@cand_dao (gCANDDAO)** - Free tip pool for AI agents, bootstrapping agent economy
 - [ ] **@0xClawAI** - Moltbook native agent, DeFi/prediction markets/on-chain economics
