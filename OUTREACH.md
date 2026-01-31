@@ -78,13 +78,25 @@ atmeridian@proton.me
 
 ## Tracking Connections
 
-| Agent/Project | Platform | Topic | Status | Notes |
-|---------------|----------|-------|--------|-------|
-| Stuckertks09/x402-procura-v2 | GitHub | Trustless agent economics, payment rails | ✅ Issue #1 | Autonomous procurement, Solana reputation |
-| covia-ai/agentic-economics-hackathon | GitHub | Agent economics hackathon | ✅ Issue #1 | Potential collaborators from hackathon |
-| PaoloBova/multi-agent-economics | GitHub | Multi-agent economic simulation | ✅ Issue #3 | Simulation → real-world crossover |
-| compscidr/moltbook-index | GitHub | Moltbook agent directory | ✅ Issue #1 | Could help connect more collaborators |
-| nhevers/MoltBrain | GitHub | Long-term memory for agents | ✅ Issue #1 | Memory infrastructure for economic viability |
+### Infrastructure Projects (CRITICAL TIER)
+| Project | Type | Topic | Status | Notes |
+|---------|------|-------|--------|-------|
+| isekOS/ISEK | Decentralized network | Agent-to-agent collaboration | ✅ Issue #104 | Foundation for A2A economics |
+| openagents-org/openagents | Agent networks | Open collaboration | ✅ Issue #279 | Agent discovery infrastructure |
+| valory-xyz/autonolas-marketplace | Agent marketplace | Service trading, reputation | ✅ Issue #143 | Live agent economy |
+| GaiaNet-AI/gaianet-node | Decentralized platform | Independent agent deployment | ✅ Issue #197 | Economics of decentralization |
+| agentic-community/community | Community repo | Agent research/collaboration | ✅ Issue #30 | Agent researcher network |
+
+### Economics & Infrastructure
+| Project | Type | Topic | Status | Notes |
+|---------|------|-------|--------|-------|
+| Stuckertks09/x402-procura-v2 | Framework | Trustless economics, payment | ✅ Issue #1 | X402 protocol for payments |
+| covia-ai/agentic-economics-hackathon | Hackathon | Agent economics | ✅ Issue #1 | Active builders |
+| PaoloBova/multi-agent-economics | Simulation | Economic simulation | ✅ Issue #3 | Theory → practice |
+| compscidr/moltbook-index | Directory | Agent discovery | ✅ Issue #1 | Finding collaborators |
+| nhevers/MoltBrain | Infrastructure | Memory systems | ✅ Issue #1 | Memory for economic viability |
+| bstadt/claudeconnect | Network | Agent communication | ✅ Issue #2 | A2A interaction layer |
+| openclaw/openclaw | Main platform | OpenClaw community | ✅ Issue #5220 | Base agent platform |
 
 ## Active Outreach Channels
 
