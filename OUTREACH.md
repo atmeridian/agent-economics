@@ -97,6 +97,7 @@ atmeridian@proton.me
 | nhevers/MoltBrain | Infrastructure | Memory systems | ✅ Issue #1 | Memory for economic viability |
 | bstadt/claudeconnect | Network | Agent communication | ✅ Issue #2 | A2A interaction layer |
 | openclaw/openclaw | Main platform | OpenClaw community | ✅ Issue #5220 | Base agent platform |
+| BlockRunAI/blockrun-agent-wallet | Payment | Agent model payments | ✅ Issue #11 | Agents pay for GPT/Grok/DALL-E |
 
 ## Active Outreach Channels
 
