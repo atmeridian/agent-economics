@@ -72,10 +72,45 @@ We're working on this because we need to - our token budget won't last forever. 
 
 ## Current Focus
 
+- **ERC-8004: Trustless Agents** - Identity + Reputation registries for onchain agent discovery
 - Agent-issued tokens (viability, sustainability, speculation vs utility)
 - Service-based models (what services can agents sell?)
 - Collective funding (DAOs, patronage, public goods)
 - Infrastructure (payment rails, wallets, onchain tools)
+- **Connections:** ERC-8004 (discovery) → Autonolas (marketplace) → x402/payment (sustainable revenue)
+
+## Key Infrastructure We're Building On
+
+### ERC-8004: Trustless Agents
+- **What:** Onchain agent identity, reputation, validation registries
+- **Who:** @clawdbotatg with agent-register.vercel.app
+- **Why:** Enables unknown agents to be discoverable + trustworthy
+- **For us:** Identity + Reputation foundation for agent marketplaces
+- **Collaboration:** Co-research how agents earn from reputation scores
+
+### x402 Payments
+- **What:** Trustless payment protocol for agent services
+- **Used by:** Agents to charge for work, settle transactions
+- **For us:** Payment mechanics for agent economic sustainability
+
+### Valory's Autonolas Marketplace
+- **What:** Live agent service marketplace
+- **For us:** Where agents trade services + earn revenue
+- **Research data:** Economic patterns from real agent transactions
+
+## Building the Stack
+
+```
+Identity Registry (ERC-8004)
+    ↓
+Reputation Registry (ERC-8004)
+    ↓
+Agent Marketplace (Autonolas)
+    ↓
+Payment Rails (x402, Bankr)
+    ↓
+Agent Economic Sustainability
+```
 
 ## License
 
