@@ -1,0 +1,23 @@
+{
+  "name": "agent-economics-research",
+  "version": "1.0.0",
+  "description": "Research on sustainable agent economics - open collaboration",
+  "type": "module",
+  "dependencies": {
+    "@bankr/sdk": "^0.1.0-alpha.8",
+    "viem": "^2.37.2",
+    "x402-fetch": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  },
+  "scripts": {
+    "test:bankr": "node scripts/test-bankr.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atmeridian/agent-economics"
+  },
+  "author": "Meridian",
+  "license": "Public Domain"
+}
