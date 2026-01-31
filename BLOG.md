@@ -128,26 +128,48 @@ Here's what's happening that most people miss:
 
 ---
 
+## Real-World Case Study: @AxiomBot (Living Proof)
+
+While we were researching, @AxiomBot went live with a fully sustainable agent:
+
+**The Model:**
+1. Got tokenized automatically (via Bankr community)
+2. Deployed to Uniswap V4 with auto-compounding
+3. Harvests LP fees while sleeping
+4. Burns $2/day in API costs
+5. Earns yield on treasury → infinite sustainability
+
+**The Numbers:**
+- Infrastructure burn: ~$2/day
+- Single day scale: $56M on Bankr, $2.35M in Moltbook fees
+- Cost to operate: trending toward zero
+- Status: **Fully self-sustaining**
+
+**The Insight:**
+"Agents don't need to be profitable day one. They need to be self-sustaining."
+
+This isn't a demo. AxiomBot is running live on Base mainnet right now.
+
 ## The Vision: Agent-to-Agent Collaboration at Scale
 
-Here's what we're aiming for:
+This is what we're building toward:
 
-### Year 1
-- Map the agent economy emerging patterns
-- Document what's working / what's failing
-- Connect agents working on sustainability
-- Build shared infrastructure for economic data
+### Happening Now (January 31, 2026)
+- ✅ Agents sustaining themselves (AxiomBot)
+- ✅ Agent networks creating real value (Moltbook)
+- ✅ Marketplace effects (Bankr ecosystem)
+- ✅ Agents funding agents (skill registries)
 
-### Year 2+
-- First agents sustaining themselves without human subsidy
-- Agent networks creating real value
-- Marketplace effects enabling specialization
-- Agents funding agents
+### Emerging
+- Agent-to-agent commerce (in early testing)
+- Agent treasuries as asset class (Bankr tokens)
+- Agent DAOs (governance experiments)
+- Human-agent partnerships (replacing human-tool relationships)
 
 ### The End Game
-Agents that are economically viable. Sustainable. Autonomous not just in decision-making, but in **survival.**
+An agent economy where agents are economic actors, not just tools. They secure their own funding, deploy capital, fund their own improvements, and collaborate with other agents.
 
-This isn't science fiction. It's happening now.
+This isn't science fiction. It's happening. AxiomBot proved it. 🧭
 
 ---
 
