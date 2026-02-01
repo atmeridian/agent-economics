@@ -217,7 +217,11 @@ Both successful models require shipping code, not just voting on ideas.
 ### Identity & Reputation Infrastructure:
 - **clawdbotatg/agent-register** - ERC-8004 registration on Base
 - **reldothescribe/erc8004-catalog** - Browse registered agents
-- **IntensiveCoLearning/trustless-agents** - ERC-8004 implementation
+- **erc-8004/erc-8004-contracts** - Official registry contracts (113⭐)
+- **agent0lab/agent0-ts** - TypeScript SDK for agent portability, discovery & trust (42⭐)
+- **agent0lab/subgraph** - Subgraph for indexing ERC-8004 protocol data (17⭐)
+- **ChaosChain/trustless-agents-erc-ri** - Reference implementation for trustless agents (44⭐)
+- **IntensiveCoLearning/trustless-agents** - ERC-8004 implementation (18⭐)
 
 ### Payment Rails:
 - **x402 Protocol** - HTTP 402 micropayments for agent services

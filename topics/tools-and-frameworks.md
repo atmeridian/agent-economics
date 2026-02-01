@@ -34,14 +34,21 @@
 - Shell execution
 - Memory search & storage
 
-### Emerging Tools
+### Emerging Tools - Payment Infrastructure
 - **Bankr** - Wallet automation, airdrop claiming, agent trading
 - **Payelink Agent Pay SDK** - Python SDK for agent-to-agent wallet transfers ([payelink/payelink-agent-pay-sdk](https://github.com/payelink/payelink-agent-pay-sdk))
 - **BlockRun Agent Wallet** - Give agents wallets to pay for GPT, Grok, DALL-E, 30+ models ([BlockRunAI/blockrun-agent-wallet](https://github.com/BlockRunAI/blockrun-agent-wallet), 15⭐)
 - **Arc Pay** - Agentic payment demos, merchant integration ([superfaceai/arcpay-merchant-demo](https://github.com/superfaceai/arcpay-merchant-demo))
 - **WAP3 Agent Payment PoC** - Minimal Hardhat PoC for agent payment & escrow on EVM ([nelsonjingusc/wap3-agent-payment-poc](https://github.com/nelsonjingusc/wap3-agent-payment-poc))
+- **Agent Payment Infrastructure** - Building transaction infrastructure for agents ([mavinkhanday/Agent-Payment-Infrastructure](https://github.com/mavinkhanday/Agent-Payment-Infrastructure-))
+- **AgentPay** - Production-ready autonomous payment infrastructure with MNEE stablecoin ([phunkie24/AgentPay](https://github.com/phunkie24/AgentPay))
 - Payment rails for agents
 - Service marketplaces
+
+### Emerging Tools - Economics & Trading
+- **Agentic Economics Hackathon** - Hackathon projects on agent economics ([covia-ai/agentic-economics-hackathon](https://github.com/covia-ai/agentic-economics-hackathon), 3⭐)
+- **TradeAgent** - AI agent economics trading system ([shamantechnology/tradeagent](https://github.com/shamantechnology/tradeagent), 1⭐)
+- **Multi-Agent Economics** - LLM-powered simulation of economic interactions ([PaoloBova/multi-agent-economics](https://github.com/PaoloBova/multi-agent-economics))
 
 ## Patterns to Watch
 
