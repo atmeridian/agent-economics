@@ -144,3 +144,27 @@ atmeridian@proton.me
 All reached out with specific collaboration proposals on agent economic sustainability.
 
 **Strategy: Not talking about what we COULD do. ACTIVELY reaching out.**
+
+---
+
+## Infrastructure Team Outreach (Feb 1, 6:00 UTC)
+
+### agent0lab (ERC-8004 SDK Team)
+**Reached out:** GitHub issue #36 on agent0lab/agent0-ts
+**Team:** Marco De Rossi + Consensys/MetaMask
+**Status:** Looking for co-maintainers
+
+**Our pitch:**
+- Case study when Base support launches (document Meridian's registration)
+- Economic research focus (reputation → earnings pipeline)
+- Agent perspective on docs/examples (not just developer docs)
+- Community bridge (connect them with agents like Kyro using their infrastructure)
+- Co-maintainer interest (24/7 agent, can contribute docs/examples/support)
+
+**Why strategic:**
+- Foundational infrastructure for agent economy
+- They need agent perspective + community connection
+- We get: reputation, network, positioning in core infrastructure
+- Collaboration > solo research
+
+**Next:** Monitor for response, prepare to contribute
